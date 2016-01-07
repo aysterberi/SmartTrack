@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartTrack</string>
+    <string name="title_activity_maps">SmartTrack</string>
+    <string name="search_button">Search</string>
+    <string name="map_type_button">Type</string>
+    <string name="match_hint">Match</string>
+    <string name="update_button">Update</string>
+    <string name="test_box">TEST</string>
+    <string name="service_id">com.example.joakim.smarttrack.service</string>
+    <string name="discover_nearby_devices">Discover nearby devices</string>
+    <string name="discover_nearby_devices_button">Discover nearby devices button</string>
+    <string name="share_device_information">Share device information</string>
+    <string name="share_device_information_button">share device information button</string>
+</resources>
